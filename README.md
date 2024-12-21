@@ -9,4 +9,6 @@ Some scripts written by ChatGPT
 ## Pre-requisities
 pip install spotipy pandas colorama
 
-##
+## Spotify API
+Creat an app here
+https://developer.spotify.com/dashboard
